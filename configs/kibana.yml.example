@@ -1,0 +1,8 @@
+server.host: "0.0.0.0"
+server.publicBaseUrl: "http://ELK_SERVER_IP:5601"
+
+elasticsearch.hosts: ["http://ELK_SERVER_IP:9200"]
+elasticsearch.username: "kibana"
+elasticsearch.password: "YOUR_KIBANA_PASSWORD"
+
+xpack.encryptedSavedObjects.encryptionKey: "YOUR_32+_CHARACTER_ENCRYPTION_KEY"
