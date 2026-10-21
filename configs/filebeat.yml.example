@@ -7,7 +7,7 @@ filebeat.inputs:
     enabled: true
     paths:
       - /var/log/*.log
-      - /var/log/auth.log
+      - /var/log/auth.log 
 
 output.elasticsearch:
   hosts: ["http://ELK_SERVER_IP:9200"]
