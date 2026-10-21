@@ -128,6 +128,6 @@ This project is a controlled educational lab for cybersecurity learning. The aut
 
 ## Dashboard Preview
 
-[SOC Security Monitoring Dashboard](screenshots/SOC%20Dashboard-1.png)
+![SOC Security Monitoring Dashboard](screenshots/SOC%20Dashboard-1.png)
 
 [View all project screenshots](screenshots/)
